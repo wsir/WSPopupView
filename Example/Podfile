@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WSPopupView_Example' do
+  pod 'WSPopupView', :path => '../'
+
+  target 'WSPopupView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
