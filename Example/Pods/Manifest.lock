@@ -1,0 +1,16 @@
+PODS:
+  - WSPopupView (0.1.0)
+
+DEPENDENCIES:
+  - WSPopupView (from `../`)
+
+EXTERNAL SOURCES:
+  WSPopupView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WSPopupView: fefa97e4079248a0cba0ca8e7dcd27136b6d9de5
+
+PODFILE CHECKSUM: 29585a46c455b66a024c8dc9f447c54db3ad79dd
+
+COCOAPODS: 1.6.0.beta.2

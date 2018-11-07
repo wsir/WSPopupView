@@ -1,0 +1,6 @@
+framework module WSPopupView {
+  umbrella header "WSPopupView-umbrella.h"
+
+  export *
+  module * { export * }
+}
